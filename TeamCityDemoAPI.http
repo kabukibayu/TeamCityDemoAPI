@@ -1,0 +1,6 @@
+@TeamCityDemoAPI_HostAddress = http://localhost:5228
+
+GET {{TeamCityDemoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

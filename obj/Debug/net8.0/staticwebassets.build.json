@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UINEX7ECWKK9izzXvMyP/Q0FBdnj3/PG7W47asR46Rg=",
+  "Source": "TeamCityDemoAPI",
+  "BasePath": "_content/TeamCityDemoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
