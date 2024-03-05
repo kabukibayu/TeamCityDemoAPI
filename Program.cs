@@ -24,4 +24,4 @@ app.UseEndpoints(endpoints =>
     _ = endpoints.MapControllers(); 
 });
 
-app.Run("http://jarex.alwaysdata.net:5000/");
+app.Run("http://*:5001");

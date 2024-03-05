@@ -33,3 +33,4 @@ C:\Users\N I T R O\Documents\GitHub\TeamCityDemoAPI\obj\Debug\net8.0\refint\Team
 C:\Users\N I T R O\Documents\GitHub\TeamCityDemoAPI\obj\Debug\net8.0\TeamCityDemoAPI.pdb
 C:\Users\N I T R O\Documents\GitHub\TeamCityDemoAPI\obj\Debug\net8.0\TeamCityDemoAPI.genruntimeconfig.cache
 C:\Users\N I T R O\Documents\GitHub\TeamCityDemoAPI\obj\Debug\net8.0\ref\TeamCityDemoAPI.dll
+C:\Users\N I T R O\Documents\GitHub\TeamCityDemoAPI\obj\Debug\net8.0\TeamCityDemoAPI.sourcelink.json
