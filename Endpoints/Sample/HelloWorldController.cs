@@ -9,7 +9,7 @@ public class HelloWorldController : ControllerBase
     [Route("[action]")]
     public IActionResult SayHello()
     {
-        return Ok("Hello, TeamCity from ASP.NET Core API!");
+        return Ok("Hello, TeamCity from ASP.NET Core API! Second Update");
     }
 }
 
