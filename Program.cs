@@ -24,4 +24,4 @@ app.UseEndpoints(endpoints =>
     _ = endpoints.MapControllers(); 
 });
 
-app.Run("http://$IP:$PORT");
+app.Run("http://$IP:5001");
